@@ -7,6 +7,6 @@ Installation
 
 $ ssh root@192.168.10.1
 
-root@OpenWrt:~# wget -qO - https://github.com/nieldk/tor-router-nexx-wt3020/blob/master/onionwrt/install.sh | sh
+root@OpenWrt:~# wget -qO - https://github.com/nieldk/tor-router-nexx-wt3020/blob/master/install.sh | sh
 
 Enjoy
